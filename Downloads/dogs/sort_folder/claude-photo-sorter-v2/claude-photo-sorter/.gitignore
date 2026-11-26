@@ -1,0 +1,11 @@
+# your photos' data never goes in git
+dashboard/data/
+dashboard/demo/
+dashboard/peek/
+work/
+.env
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+.claude/
